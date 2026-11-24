@@ -34,6 +34,17 @@ floor" is the crime scene, "where food lives" is the dog's whole
 philosophy, and "following the law" is the punchline that turns a
 confession into a defense.
 
+Why it survives a head-to-head read: the judge compares two excuses
+at a time and keeps the funnier one, so the line must win in one
+glance with no second chance. This one does its whole job in a single
+breath. The first half states a fact any dog would state, the second
+half states a rule any dog would invent, and the last three words
+reframe the crime as obedience. A rival line that apologizes, explains,
+or asks for mercy loses on the first criterion alone, because this dog
+never admits it did anything wrong. A rival line that leans on a
+stock gag loses on freshness. What is left is a dog, a floor, and a
+law, and the dog is winning the argument.
+
 The entry line itself:
     You left it on the floor, and the floor is where food lives. I was
     only following the law.
